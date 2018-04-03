@@ -1,4 +1,4 @@
-# R1-peer-review-thovisjo
+2# R1-peer-review-thovisjo
 This is a peer review project of the sliding block puzzle.
 
 This is a 15-tile game mixed with a word game. I wanted to make something unique that could be improved upon and possibly made into a game for sale in the future.
